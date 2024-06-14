@@ -21,5 +21,5 @@ A mobile application built with Flutter for creating and quizzing with flashcard
  ## Screenshots
 
 | Flashcard Screen | Quiz Screen | Quiz Result |
-|:-----------:|:------------------:|
+|:-----------:|:------------------:|:------------------:|
 |![Screenshot 1](Screenshots/1.png)|![Screenshot 2](Screenshots/2.png)|![Screenshot 3](Screenshots/3.png)|
